@@ -1,2 +1,3 @@
 # first-code
-Thia is my first GIt Repository
+This is my first GIt Repository
+Author - Vedant Ingale
