@@ -1,3 +1,4 @@
 # first-code
-This is my first GIt Repository
-Author - Vedant Ingale
+This is my first GIT Repository.
+<br>
+Author - Vedant Ingale.
